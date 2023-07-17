@@ -14,13 +14,13 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 1. Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/ui-clone-header-instagram.git
+   git clone https://github.com/seu-usuario/ui-clone-header-instagram-app.git
    ```
 
 2. Navegue até o diretório clonado:
 
    ```bash
-   cd ui-clone-header-instagram
+   cd ui-clone-header-instagram-app
    ```
 
 3. Instale as dependências do projeto:
@@ -62,7 +62,7 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto ou adicio
 4. Envie as alterações para o seu repositório remoto:
 
    ```bash
-   git push origin ui-clone-header-instagram-app
+   git push origin minha-contribuicao
    ```
 
 5. Abra um Pull Request neste repositório original, explicando as alterações que você fez.
